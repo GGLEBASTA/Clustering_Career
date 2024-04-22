@@ -1,2 +1,2 @@
 # Clustering_Career
-DBSCAN &amp; KMeans кластеризация
+DBSCAN &amp; KMeans clustering career
